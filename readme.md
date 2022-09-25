@@ -40,6 +40,8 @@ server started on url: http://127.0.0.1:8000/
 
 
 # Для запуска client-a
+
+cmd
 * cd client
 * npm i
 * npm run start
